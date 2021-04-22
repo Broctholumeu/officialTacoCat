@@ -6,7 +6,7 @@ html {
 }
 
 body {
-    background: linear-gradient(-63deg, #232526, #283840);
+    background: linear-gradient(-63deg, #cf7c52, #474733);
     background-size: 400% 400%;
     animation: gradient 150s ease infinite;
 }
@@ -26,11 +26,11 @@ body {
 }
 
 .prompt {
-    color: #B0BABF;
+    color: #0d1a20;
 }
 
 .file {
-    color: #6A7073;
+    color: #1b323d;
 }
 
 .footer {
